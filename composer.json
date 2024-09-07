@@ -1,5 +1,5 @@
 {
-    "name": "microweber-deps/laravel-cors",
+    "name": "piksera/laravel-cors",
     "description": "Fork of fruitcake/laravel-cors  Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application",
     "keywords": ["laravel", "cors", "crossdomain", "api"],
     "license": "MIT",
